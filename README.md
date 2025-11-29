@@ -1,0 +1,2 @@
+# Covid-19-Data-Analysis-Using-Python-and-Machine-Learning-Model-Application-on-Loan-Data-Set
+Covid‑19 data is analysed using Python to explore global cases, deaths, and economic indicators, followed by cleaning and aggregation to derive continent‑level insights and visualizations. logistic regression model is then built on a loan dataset to predict loan approval status after preprocessing and evaluation using accuracy and confusion matrix
